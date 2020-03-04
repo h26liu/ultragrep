@@ -1,6 +1,6 @@
 # ultragrep
 
-Project #2 Ultragrep from Adavanced C++ (taught by Prof. Garth Santor)
+Project #2 Ultragrep from Adavanced C++ (taught by Prof. Garth Santor) All Rights Reserved 2020
 
 A C++ 17 application that recursively searches a files system for text files or code files and list all of the lines that contain a given regular expression. 
 
